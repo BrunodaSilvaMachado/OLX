@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activity.DetalhesProdutoActivity" android:orientation="vertical" android:padding="8dp"
+>
+    <com.synnapps.carouselview.CarouselView
+            android:id="@+id/carouselView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:fillColor="#FFFFFFFF"
+            app:pageColor="#00000000"
+            app:radius="6dp"
+            app:slideInterval="3000"
+            app:strokeColor="#FF777777"
+            app:strokeWidth="1dp"
+    />
+    <TextView
+            android:text="@string/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/tvTituloDetalhe" android:textSize="16sp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+    <TextView
+            android:text="@string/values"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/tvPrecoDetalhe" android:textSize="20sp"
+            android:textStyle="bold" android:layout_marginBottom="8dp"/>
+    <View
+            android:id="@+id/divider2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="?android:attr/listDivider"
+    />
+    <TextView
+            android:text="@string/region"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/tvRegiaoDetalhe" android:padding="8dp"
+            android:drawableStart="@drawable/ic_baseline_location_on_24"/>
+    <View
+            android:id="@+id/divider3"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="?android:attr/listDivider"
+    />
+    <TextView
+            android:text="@string/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/tvDescricaoDetalhe" android:padding="10dp"
+            android:layout_marginTop="8dp"/>
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/btnCallPhone" android:text="@string/call_phone"
+            android:layout_marginTop="8dp"/>
+
+</LinearLayout>

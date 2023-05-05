@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">OLX</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="e_mail" translatable="false">E-mail</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="invalid_email">valid email is request</string>
+    <string name="invalid_credentials">Username or password is invalid</string>
+    <string name="permission_denied">Permissions denied</string>
+    <string name="msg_request_permission">To use the app it is necessary to accept the permissions.</string>
+    <string name="accept">Accept</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="delete_failed">Failed to delete file</string>
+    <string name="access">Access</string>
+    <string name="exit">Exit</string>
+    <string name="my_ads">My ads</string>
+    <string name="login_or_register">Login/Register</string>
+    <string name="title_activity_meus_anuncios" translatable="false">MeusAnunciosActivity</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="values">Value</string>
+    <string name="description">Description</string>
+    <string name="category">category</string>
+    <string name="hint_phone_number">Telephone</string>
+    <string name="invalid_estado">Invalid Federal state</string>
+    <string name="invalid_category">Invalid Category</string>
+    <string name="invalid_title">Invalid Title</string>
+    <string name="invalid_values">Invalid values</string>
+    <string name="invalid_tel">Invalid telephone</string>
+    <string name="invalid_description">Invalid description</string>
+    <string name="invalid_num_photo">Select at least one photo</string>
+    <string name="save">Save</string>
+    <string name="load">Loading…</string>
+    <string name="ads_has_been_deleted">ads has been deleted</string>
+    <string name="undo">Undo</string>
+    <string name="region">Region</string>
+    <string name="applied_filter">Applied filter</string>
+    <string name="clear">clear</string>
+    <string name="call_phone">Call telephone</string>
+    <string name="title_activity_detalhes_produto">Product details</string>
+</resources>

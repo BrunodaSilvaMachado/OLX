@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OLX</string>
+    <string name="password">Senha</string>
+    <string name="sign_in">Entrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="name">Nome</string>
+    <string name="invalid_username">Nome de usuário inválido</string>
+    <string name="invalid_password">A senha deve ter 5 caracteres ou mais</string>
+    <string name="login_failed">Falha ao conectar</string>
+    <string name="invalid_email">É necessário um e-mail valido</string>
+    <string name="invalid_credentials">Nome ou senha inválidos</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="msg_request_permission">Para utilizar a aplicação é necessário aceitar as permissões.</string>
+    <string name="accept">Aceitar</string>
+    <string name="camera">Câmera</string>
+    <string name="gallery">Galeria</string>
+    <string name="upload_failed">Falha ao carregar imagem</string>
+    <string name="delete_failed">Falha ao Excluir</string>
+    <string name="access">Acesso</string>
+    <string name="exit">Sair</string>
+    <string name="my_ads">Meus Anúncios</string>
+    <string name="login_or_register">Entrar/Cadastrar</string>
+    <string name="add">Adicionar</string>
+    <string name="title">Título</string>
+    <string name="values">Valor</string>
+    <string name="description">Descrição</string>
+    <string name="category">categoria</string>
+    <string name="hint_phone_number">Telefone</string>
+    <string name="invalid_estado">Unidade Federativa Inválida</string>
+    <string name="invalid_category">Categoria Invalida</string>
+    <string name="invalid_title">Título invalido</string>
+    <string name="invalid_values">Valor Invalido</string>
+    <string name="invalid_tel">Telefone Invalido</string>
+    <string name="invalid_description">Descrição invalida</string>
+    <string name="invalid_num_photo">Selecione ao menos uma foto</string>
+    <string name="save">Salvar</string>
+    <string name="load">Carregando…</string>
+    <string name="ads_has_been_deleted">Anuncio removido</string>
+    <string name="undo">Desfazer</string>
+    <string name="region">Região</string>
+    <string name="applied_filter">Filtro Aplicado</string>
+    <string name="clear">Limpar</string>
+    <string name="call_phone">Chamar telefone</string>
+    <string name="title_activity_detalhes_produto">Detalhes produto</string>
+</resources>
